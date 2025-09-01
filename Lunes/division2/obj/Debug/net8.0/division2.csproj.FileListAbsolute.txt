@@ -1,0 +1,14 @@
+C:\Users\isaqu\OneDrive\Desktop\IntProGram\2do Semestre\Semana 2\division2\bin\Debug\net8.0\division2.exe
+C:\Users\isaqu\OneDrive\Desktop\IntProGram\2do Semestre\Semana 2\division2\bin\Debug\net8.0\division2.deps.json
+C:\Users\isaqu\OneDrive\Desktop\IntProGram\2do Semestre\Semana 2\division2\bin\Debug\net8.0\division2.runtimeconfig.json
+C:\Users\isaqu\OneDrive\Desktop\IntProGram\2do Semestre\Semana 2\division2\bin\Debug\net8.0\division2.dll
+C:\Users\isaqu\OneDrive\Desktop\IntProGram\2do Semestre\Semana 2\division2\bin\Debug\net8.0\division2.pdb
+C:\Users\isaqu\OneDrive\Desktop\IntProGram\2do Semestre\Semana 2\division2\obj\Debug\net8.0\division2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaqu\OneDrive\Desktop\IntProGram\2do Semestre\Semana 2\division2\obj\Debug\net8.0\division2.AssemblyInfoInputs.cache
+C:\Users\isaqu\OneDrive\Desktop\IntProGram\2do Semestre\Semana 2\division2\obj\Debug\net8.0\division2.AssemblyInfo.cs
+C:\Users\isaqu\OneDrive\Desktop\IntProGram\2do Semestre\Semana 2\division2\obj\Debug\net8.0\division2.csproj.CoreCompileInputs.cache
+C:\Users\isaqu\OneDrive\Desktop\IntProGram\2do Semestre\Semana 2\division2\obj\Debug\net8.0\division2.dll
+C:\Users\isaqu\OneDrive\Desktop\IntProGram\2do Semestre\Semana 2\division2\obj\Debug\net8.0\refint\division2.dll
+C:\Users\isaqu\OneDrive\Desktop\IntProGram\2do Semestre\Semana 2\division2\obj\Debug\net8.0\division2.pdb
+C:\Users\isaqu\OneDrive\Desktop\IntProGram\2do Semestre\Semana 2\division2\obj\Debug\net8.0\division2.genruntimeconfig.cache
+C:\Users\isaqu\OneDrive\Desktop\IntProGram\2do Semestre\Semana 2\division2\obj\Debug\net8.0\ref\division2.dll
