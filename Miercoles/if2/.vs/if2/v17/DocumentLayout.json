@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\isaqu\\OneDrive\\Desktop\\IntProGram\\2do Semestre\\Semana 2\\Miercoles\\if2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68225308-9486-4DC4-BDA0-B79638CFD27F}|SalarioNeto\\SalarioNeto.csproj|c:\\users\\isaqu\\onedrive\\desktop\\intprogram\\2do semestre\\semana 2\\miercoles\\if2\\salarioneto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68225308-9486-4DC4-BDA0-B79638CFD27F}|SalarioNeto\\SalarioNeto.csproj|solutionrelative:salarioneto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16FEBF07-7571-4DF2-8382-2CAD7CB4212D}|try4\\try4.csproj|c:\\users\\isaqu\\onedrive\\desktop\\intprogram\\2do semestre\\semana 2\\miercoles\\if2\\try4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16FEBF07-7571-4DF2-8382-2CAD7CB4212D}|try4\\try4.csproj|solutionrelative:try4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47985343-A85C-493C-B63C-F259E2743AD4}|try2\\try2.csproj|c:\\users\\isaqu\\onedrive\\desktop\\intprogram\\2do semestre\\semana 2\\miercoles\\if2\\try2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47985343-A85C-493C-B63C-F259E2743AD4}|try2\\try2.csproj|solutionrelative:try2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A34145D-1500-44E1-94B4-F0856AB86C74}|if2\\if2.csproj|c:\\users\\isaqu\\onedrive\\desktop\\intprogram\\2do semestre\\semana 2\\miercoles\\if2\\if2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A34145D-1500-44E1-94B4-F0856AB86C74}|if2\\if2.csproj|solutionrelative:if2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\isaqu\\OneDrive\\Desktop\\IntProGram\\2do Semestre\\Semana 2\\Miercoles\\if2\\SalarioNeto\\Program.cs",
+              "RelativeDocumentMoniker": "SalarioNeto\\Program.cs",
+              "ToolTip": "C:\\Users\\isaqu\\OneDrive\\Desktop\\IntProGram\\2do Semestre\\Semana 2\\Miercoles\\if2\\SalarioNeto\\Program.cs",
+              "RelativeToolTip": "SalarioNeto\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T18:00:34.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\isaqu\\OneDrive\\Desktop\\IntProGram\\2do Semestre\\Semana 2\\Miercoles\\if2\\try4\\Program.cs",
+              "RelativeDocumentMoniker": "try4\\Program.cs",
+              "ToolTip": "C:\\Users\\isaqu\\OneDrive\\Desktop\\IntProGram\\2do Semestre\\Semana 2\\Miercoles\\if2\\try4\\Program.cs",
+              "RelativeToolTip": "try4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T14:30:49.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\isaqu\\OneDrive\\Desktop\\IntProGram\\2do Semestre\\Semana 2\\Miercoles\\if2\\try2\\Program.cs",
+              "RelativeDocumentMoniker": "try2\\Program.cs",
+              "ToolTip": "C:\\Users\\isaqu\\OneDrive\\Desktop\\IntProGram\\2do Semestre\\Semana 2\\Miercoles\\if2\\try2\\Program.cs",
+              "RelativeToolTip": "try2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T14:27:03.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\isaqu\\OneDrive\\Desktop\\IntProGram\\2do Semestre\\Semana 2\\Miercoles\\if2\\if2\\Program.cs",
+              "RelativeDocumentMoniker": "if2\\Program.cs",
+              "ToolTip": "C:\\Users\\isaqu\\OneDrive\\Desktop\\IntProGram\\2do Semestre\\Semana 2\\Miercoles\\if2\\if2\\Program.cs",
+              "RelativeToolTip": "if2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T14:02:23.247Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

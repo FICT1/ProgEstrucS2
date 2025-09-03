@@ -1,0 +1,15 @@
+C:\Users\isaqu\OneDrive\Desktop\IntProGram\2do Semestre\Semana 2\Miercoles\if2\SalarioNeto\bin\Debug\net8.0\SalarioNeto.exe
+C:\Users\isaqu\OneDrive\Desktop\IntProGram\2do Semestre\Semana 2\Miercoles\if2\SalarioNeto\bin\Debug\net8.0\SalarioNeto.deps.json
+C:\Users\isaqu\OneDrive\Desktop\IntProGram\2do Semestre\Semana 2\Miercoles\if2\SalarioNeto\bin\Debug\net8.0\SalarioNeto.runtimeconfig.json
+C:\Users\isaqu\OneDrive\Desktop\IntProGram\2do Semestre\Semana 2\Miercoles\if2\SalarioNeto\bin\Debug\net8.0\SalarioNeto.dll
+C:\Users\isaqu\OneDrive\Desktop\IntProGram\2do Semestre\Semana 2\Miercoles\if2\SalarioNeto\bin\Debug\net8.0\SalarioNeto.pdb
+C:\Users\isaqu\OneDrive\Desktop\IntProGram\2do Semestre\Semana 2\Miercoles\if2\SalarioNeto\obj\Debug\net8.0\SalarioNeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaqu\OneDrive\Desktop\IntProGram\2do Semestre\Semana 2\Miercoles\if2\SalarioNeto\obj\Debug\net8.0\SalarioNeto.AssemblyInfoInputs.cache
+C:\Users\isaqu\OneDrive\Desktop\IntProGram\2do Semestre\Semana 2\Miercoles\if2\SalarioNeto\obj\Debug\net8.0\SalarioNeto.AssemblyInfo.cs
+C:\Users\isaqu\OneDrive\Desktop\IntProGram\2do Semestre\Semana 2\Miercoles\if2\SalarioNeto\obj\Debug\net8.0\SalarioNeto.csproj.CoreCompileInputs.cache
+C:\Users\isaqu\OneDrive\Desktop\IntProGram\2do Semestre\Semana 2\Miercoles\if2\SalarioNeto\obj\Debug\net8.0\SalarioNeto.sourcelink.json
+C:\Users\isaqu\OneDrive\Desktop\IntProGram\2do Semestre\Semana 2\Miercoles\if2\SalarioNeto\obj\Debug\net8.0\SalarioNeto.dll
+C:\Users\isaqu\OneDrive\Desktop\IntProGram\2do Semestre\Semana 2\Miercoles\if2\SalarioNeto\obj\Debug\net8.0\refint\SalarioNeto.dll
+C:\Users\isaqu\OneDrive\Desktop\IntProGram\2do Semestre\Semana 2\Miercoles\if2\SalarioNeto\obj\Debug\net8.0\SalarioNeto.pdb
+C:\Users\isaqu\OneDrive\Desktop\IntProGram\2do Semestre\Semana 2\Miercoles\if2\SalarioNeto\obj\Debug\net8.0\SalarioNeto.genruntimeconfig.cache
+C:\Users\isaqu\OneDrive\Desktop\IntProGram\2do Semestre\Semana 2\Miercoles\if2\SalarioNeto\obj\Debug\net8.0\ref\SalarioNeto.dll

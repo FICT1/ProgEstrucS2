@@ -1,0 +1,15 @@
+C:\Users\isaqu\OneDrive\Desktop\IntProGram\2do Semestre\Semana 2\Miercoles\if2\if2\bin\Debug\net8.0\if2.exe
+C:\Users\isaqu\OneDrive\Desktop\IntProGram\2do Semestre\Semana 2\Miercoles\if2\if2\bin\Debug\net8.0\if2.deps.json
+C:\Users\isaqu\OneDrive\Desktop\IntProGram\2do Semestre\Semana 2\Miercoles\if2\if2\bin\Debug\net8.0\if2.runtimeconfig.json
+C:\Users\isaqu\OneDrive\Desktop\IntProGram\2do Semestre\Semana 2\Miercoles\if2\if2\bin\Debug\net8.0\if2.dll
+C:\Users\isaqu\OneDrive\Desktop\IntProGram\2do Semestre\Semana 2\Miercoles\if2\if2\bin\Debug\net8.0\if2.pdb
+C:\Users\isaqu\OneDrive\Desktop\IntProGram\2do Semestre\Semana 2\Miercoles\if2\if2\obj\Debug\net8.0\if2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaqu\OneDrive\Desktop\IntProGram\2do Semestre\Semana 2\Miercoles\if2\if2\obj\Debug\net8.0\if2.AssemblyInfoInputs.cache
+C:\Users\isaqu\OneDrive\Desktop\IntProGram\2do Semestre\Semana 2\Miercoles\if2\if2\obj\Debug\net8.0\if2.AssemblyInfo.cs
+C:\Users\isaqu\OneDrive\Desktop\IntProGram\2do Semestre\Semana 2\Miercoles\if2\if2\obj\Debug\net8.0\if2.csproj.CoreCompileInputs.cache
+C:\Users\isaqu\OneDrive\Desktop\IntProGram\2do Semestre\Semana 2\Miercoles\if2\if2\obj\Debug\net8.0\if2.sourcelink.json
+C:\Users\isaqu\OneDrive\Desktop\IntProGram\2do Semestre\Semana 2\Miercoles\if2\if2\obj\Debug\net8.0\if2.dll
+C:\Users\isaqu\OneDrive\Desktop\IntProGram\2do Semestre\Semana 2\Miercoles\if2\if2\obj\Debug\net8.0\refint\if2.dll
+C:\Users\isaqu\OneDrive\Desktop\IntProGram\2do Semestre\Semana 2\Miercoles\if2\if2\obj\Debug\net8.0\if2.pdb
+C:\Users\isaqu\OneDrive\Desktop\IntProGram\2do Semestre\Semana 2\Miercoles\if2\if2\obj\Debug\net8.0\if2.genruntimeconfig.cache
+C:\Users\isaqu\OneDrive\Desktop\IntProGram\2do Semestre\Semana 2\Miercoles\if2\if2\obj\Debug\net8.0\ref\if2.dll
