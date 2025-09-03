@@ -1,0 +1,5 @@
+C:\Users\isaqu\OneDrive\Desktop\IntProGram\2do Semestre\Semana 2\Miercoles\PracticaClase\PracticaClase\obj\Debug\net8.0\PracticaClase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaqu\OneDrive\Desktop\IntProGram\2do Semestre\Semana 2\Miercoles\PracticaClase\PracticaClase\obj\Debug\net8.0\PracticaClase.AssemblyInfoInputs.cache
+C:\Users\isaqu\OneDrive\Desktop\IntProGram\2do Semestre\Semana 2\Miercoles\PracticaClase\PracticaClase\obj\Debug\net8.0\PracticaClase.AssemblyInfo.cs
+C:\Users\isaqu\OneDrive\Desktop\IntProGram\2do Semestre\Semana 2\Miercoles\PracticaClase\PracticaClase\obj\Debug\net8.0\PracticaClase.csproj.CoreCompileInputs.cache
+C:\Users\isaqu\OneDrive\Desktop\IntProGram\2do Semestre\Semana 2\Miercoles\PracticaClase\PracticaClase\obj\Debug\net8.0\PracticaClase.sourcelink.json

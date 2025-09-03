@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\isaqu\\OneDrive\\Desktop\\IntProGram\\2do Semestre\\Semana 2\\Miercoles\\PracticaClase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E185DB3-6768-4F10-804C-20B6F250A7A8}|PracticaClase\\PracticaClase.csproj|c:\\users\\isaqu\\onedrive\\desktop\\intprogram\\2do semestre\\semana 2\\miercoles\\practicaclase\\practicaclase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E185DB3-6768-4F10-804C-20B6F250A7A8}|PracticaClase\\PracticaClase.csproj|solutionrelative:practicaclase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\isaqu\\OneDrive\\Desktop\\IntProGram\\2do Semestre\\Semana 2\\Miercoles\\PracticaClase\\PracticaClase\\Program.cs",
+              "RelativeDocumentMoniker": "PracticaClase\\Program.cs",
+              "ToolTip": "C:\\Users\\isaqu\\OneDrive\\Desktop\\IntProGram\\2do Semestre\\Semana 2\\Miercoles\\PracticaClase\\PracticaClase\\Program.cs*",
+              "RelativeToolTip": "PracticaClase\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T13:13:57.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

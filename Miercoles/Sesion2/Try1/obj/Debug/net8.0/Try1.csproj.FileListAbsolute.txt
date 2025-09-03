@@ -1,0 +1,15 @@
+C:\Users\isaqu\OneDrive\Desktop\IntProGram\2do Semestre\Semana 2\Miercoles\Sesion2\Try1\bin\Debug\net8.0\Try1.exe
+C:\Users\isaqu\OneDrive\Desktop\IntProGram\2do Semestre\Semana 2\Miercoles\Sesion2\Try1\bin\Debug\net8.0\Try1.deps.json
+C:\Users\isaqu\OneDrive\Desktop\IntProGram\2do Semestre\Semana 2\Miercoles\Sesion2\Try1\bin\Debug\net8.0\Try1.runtimeconfig.json
+C:\Users\isaqu\OneDrive\Desktop\IntProGram\2do Semestre\Semana 2\Miercoles\Sesion2\Try1\bin\Debug\net8.0\Try1.dll
+C:\Users\isaqu\OneDrive\Desktop\IntProGram\2do Semestre\Semana 2\Miercoles\Sesion2\Try1\bin\Debug\net8.0\Try1.pdb
+C:\Users\isaqu\OneDrive\Desktop\IntProGram\2do Semestre\Semana 2\Miercoles\Sesion2\Try1\obj\Debug\net8.0\Try1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaqu\OneDrive\Desktop\IntProGram\2do Semestre\Semana 2\Miercoles\Sesion2\Try1\obj\Debug\net8.0\Try1.AssemblyInfoInputs.cache
+C:\Users\isaqu\OneDrive\Desktop\IntProGram\2do Semestre\Semana 2\Miercoles\Sesion2\Try1\obj\Debug\net8.0\Try1.AssemblyInfo.cs
+C:\Users\isaqu\OneDrive\Desktop\IntProGram\2do Semestre\Semana 2\Miercoles\Sesion2\Try1\obj\Debug\net8.0\Try1.csproj.CoreCompileInputs.cache
+C:\Users\isaqu\OneDrive\Desktop\IntProGram\2do Semestre\Semana 2\Miercoles\Sesion2\Try1\obj\Debug\net8.0\Try1.sourcelink.json
+C:\Users\isaqu\OneDrive\Desktop\IntProGram\2do Semestre\Semana 2\Miercoles\Sesion2\Try1\obj\Debug\net8.0\Try1.dll
+C:\Users\isaqu\OneDrive\Desktop\IntProGram\2do Semestre\Semana 2\Miercoles\Sesion2\Try1\obj\Debug\net8.0\refint\Try1.dll
+C:\Users\isaqu\OneDrive\Desktop\IntProGram\2do Semestre\Semana 2\Miercoles\Sesion2\Try1\obj\Debug\net8.0\Try1.pdb
+C:\Users\isaqu\OneDrive\Desktop\IntProGram\2do Semestre\Semana 2\Miercoles\Sesion2\Try1\obj\Debug\net8.0\Try1.genruntimeconfig.cache
+C:\Users\isaqu\OneDrive\Desktop\IntProGram\2do Semestre\Semana 2\Miercoles\Sesion2\Try1\obj\Debug\net8.0\ref\Try1.dll
